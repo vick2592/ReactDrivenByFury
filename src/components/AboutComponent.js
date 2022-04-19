@@ -90,7 +90,7 @@ function About(props) {
                                 <p className="mb-0">You better cut the pizza in four pieces because
                                     I'm not hungry enough to eat six.</p>
                                 <footer className="blockquote-footer">Yogi Berra,
-                                <cite title="Source Title">The Wit and Wisdom of Yogi Berra,
+                                <cite title="Source Title">The Wit and Wisdom of Yogi Berra, By
                                     P. Pepe, Diversion Books, 2014</cite>
                                 </footer>
                             </blockquote>
