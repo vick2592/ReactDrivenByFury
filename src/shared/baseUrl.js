@@ -1,1 +1,1 @@
-export const baseUrl = 'https://react.drivenbyfury.com/';
+export const baseUrl = 'http://react.drivenbyfury.com/';
